@@ -1,4 +1,5 @@
-# Data Scientist, Masters in Data Science, Expected Graduation: Fall/Winter 2024
+# Data Scientist, Master of Science, Data Science 
+Expected Graduation: Fall/Winter 2024
 
 ### Education 
 Cell and Molecular Biology, B.S.
