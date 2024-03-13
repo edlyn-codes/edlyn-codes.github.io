@@ -1,4 +1,5 @@
 # Data Scientist, Master of Science, Data Science 
+Eatsern University, Mathematics Department
 Expected Graduation: Fall/Winter 2024
 
 ### Education 
