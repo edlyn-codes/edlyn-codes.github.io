@@ -15,4 +15,4 @@ Tableau
 ### Work Experience
 Medical Scribe, 
 Retail Pharmacy Tech Apprentice, 
-Contributing Writer and Social Media Manager for OM&P
+Contributing Writer and Social Media Manager 
