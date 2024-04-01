@@ -1,5 +1,6 @@
 # Edlyn Profic, B.S. 
 Current Eatsern University student, Mathematics Department- Data Science 
+18 of 30 credits as of April 2024
 Expected Graduation: Winter 2024
 
 ### Education 
