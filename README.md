@@ -1,6 +1,6 @@
 # Edlyn Profic, B.S. 
-Current Eatsern University student, Mathematics Department
-Expected Graduation: Fall/Winter 2024
+Current Eatsern University student, Mathematics Department- Data Science 
+Expected Graduation: Winter 2024
 
 ### Education 
 Cell and Molecular Biology, B.S.
